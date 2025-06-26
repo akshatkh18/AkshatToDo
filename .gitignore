@@ -1,0 +1,14 @@
+# Ignore virtual environment
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore database and instance folder
+instance/
+todo.db
+*.sqlite3
+
+# macOS system file
+.DS_Store
